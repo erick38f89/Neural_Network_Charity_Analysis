@@ -8,7 +8,7 @@ Using Machine Learning and Neural Networks for this project, I used the features
 
 # Results
 
-#Data Preprocessing
+# Data Preprocessing
 
 •	Variable that was considered as the target for my model: IS_SUCCESSFUL Column
 •	Variables that were considered features for my model: Every Column except for IS_SUCCESSFUL which is our target and the ones we will drop
