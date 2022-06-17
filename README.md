@@ -14,7 +14,7 @@ Using Machine Learning and Neural Networks for this project, I used the features
 •	Variables that were considered features for my model: Every Column except for IS_SUCCESSFUL which is our target and the ones we will drop
 •	Variable that were neither targets or features for the dataset: Columns that I dropped are EIN, NAME because they will have little to no impact om our outcome
 
-#Compiling, Training and Evaluating the Model
+# Compiling, Training and Evaluating the Model
 
 The number of neurons, layers, and activation functions I selected for my neural network model:
 
